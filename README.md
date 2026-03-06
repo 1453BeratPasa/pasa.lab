@@ -9,7 +9,7 @@ Kastamonu Göl Anadolu Lisesi öğrencisiyim. Geleceğimi Gazi Üniversitesi Yö
 
 ### 🛠️ Nelerle Uğraşıyorum?
 
-- **Sanallaştırma:** Proxmox VE & VMware ESXi(gelecekte) (L1-L4 Mimarisi)
+- **Sanallaştırma:** Proxmox VE & VMware ESXi(Gelecekte) (L1-L4 Mimarisi)
 - **Otomasyon:** Terraform (Infrastructure as Code) & Ansible (Configuration Management)
 - **İşletim Sistemleri:** Pardus, Ubuntu Server, RHEL (Hardening & Admin)
 - **CI/CD:** Jenkins & GitHub Actions (Öğrenme aşamasında)
